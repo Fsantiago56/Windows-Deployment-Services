@@ -1,4 +1,4 @@
-# 🧩 Windows Deployment Services (WDS) Labab
+# 🧩 Windows Deployment Services (WDS) Lab
 
 ## 🎯 Goal
 Set up Windows Deployment Services (WDS) on Windows Server 2022 (DC01) to automate OS installation for network clients (PXE boot).
@@ -47,6 +47,6 @@ On DC01 (Server Manager):
 <p align="center">
   ✅ <strong> Result: WDS role installation progress.</strong>✅  
 <p align="center">
-<img src="https://i.imgur.com/XAlvAZZ.png" width="60%">
+<img src="https://i.imgur.com/VyXEyou.png" width="60%">
 </p>
 
