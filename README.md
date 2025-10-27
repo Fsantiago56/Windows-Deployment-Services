@@ -86,7 +86,9 @@ Goal: Import images from your Windows ISO.
 <p align="center">
   ✅ <strong> Result: Boot and Install images added.</strong>✅  
 <p align="center">
-<img src="" width="60%">
+<img src="https://i.imgur.com/6QGiBHN.png" width="60%">
+<p align="center">
+<img src="https://i.imgur.com/Z0RXU8c.png" width="60%">
 </p>
 
 ---
