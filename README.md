@@ -111,3 +111,23 @@ Goal: Allow clients to boot and install via PXE.
 
 
 ---   
+
+### 🔹Step 5 – Create and Boot Client01
+Goal: Test PXE boot installation using a network client.
+
+Start Client01 → Press F12 to boot from network.
+
+You should see:
+```
+Press F12 for network service boot
+Downloading NBP file from 10.0.0.10...
+```
+
+<p align="center">
+  ✅ <strong> Result: Windows Setup launches from network boot image.</strong>✅  
+<p align="center">
+<img src="https://i.imgur.com/HFX8e7b.png" width="60%">
+</p>
+
+
+---  
