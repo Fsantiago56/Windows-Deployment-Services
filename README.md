@@ -92,3 +92,22 @@ Goal: Import images from your Windows ISO.
 </p>
 
 ---
+
+### 🔹Step 4 – Configure PXE Boot Response
+Goal: Allow clients to boot and install via PXE.
+
+1. In WDS console → Server Properties → PXE Response
+    - ✔ Respond to all client computers
+    - ✔ Allow unknown clients
+2. Restart WDS service:
+   ```Powershell
+   Restart-Service wdsserver
+   ```
+<p align="center">
+  ✅ <strong> Result: WDS ready to respond to PXE clients.</strong>✅  
+<p align="center">
+<img src="https://i.imgur.com/HFX8e7b.png" width="60%">
+</p>
+
+
+---   
